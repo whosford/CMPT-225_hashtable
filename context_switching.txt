@@ -1,0 +1,6 @@
+Note that executable was run on a single CPU using the taskset tool.
+
+1. The average cost of a minimal function call was 6.903 ns.
+2. The average cost of a minimal system call was 62.428 ns.
+3. The average cost of process switching was 794.732 ns.
+4. The average cost of thread switching was 2814.698 ns.
